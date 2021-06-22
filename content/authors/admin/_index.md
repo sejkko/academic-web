@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Manuel Pita
+role: Professor of Artificial Intelligence and Complex Systems
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
