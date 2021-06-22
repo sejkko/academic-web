@@ -33,7 +33,7 @@ education:
       year: ""
     - course: BSc in Systems Engineering
       institution: UNIMET. Caracas, Venezuela
-      year: -17
+      year: ""
 email: manuel.pita@ulusofona.pt
 superuser: true
 highlight_name: false
