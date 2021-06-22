@@ -1,6 +1,6 @@
 ---
-title: Manuel Pita
 role: Professor of Artificial Intelligence and Complex Systems
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -34,9 +34,10 @@ education:
     - course: BSc in Systems Engineering
       institution: UNIMET. Caracas, Venezuela
       year: ""
-email: manuel.pita@ulusofona.pt
 superuser: true
 highlight_name: false
+title: Manuel Pita
+email: manuel.pita@ulusofona.pt
 ---
 Manuel Pita is an Assistant Professor of Artificial Intelligence and Complex Systems at [CICANT, Universidade Lusófona](https://cicant.ulusofona.pt/) (Portugal) and an Associate Researcher in the Complex Systems group at [ISTAR (ISCTE-IUL)](https://ciencia.iscte-iul.pt/centres/istar-iul) (Portugal). His research is on the interplay between individual and collective behaviours in complex networks (or how do individuals and collectives shape each other).
 
