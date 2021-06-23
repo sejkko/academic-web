@@ -56,7 +56,7 @@ twitter: 'manuel__pita'
 #    link: 'https://discourse.gohugo.io'
 
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
